@@ -1,2 +1,2 @@
 # CRUD
-note.tc.edu example
+CRUD example
